@@ -14,7 +14,7 @@ We are going to use the following library:
 library(tidyverse)
 ```
 
-    ## Warning: package 'dplyr' was built under R version 3.5.1
+    ## Warning: package 'dplyr' was built under R version 3.5.1 
 
 and load the data we already wrangled:
 
